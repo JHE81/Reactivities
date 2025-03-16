@@ -1,0 +1,7 @@
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.csproj.AssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\Udemy2\Reactivities\obj\Debug\net9.0\Reactivities.MvcApplicationPartsAssemblyInfo.cache
